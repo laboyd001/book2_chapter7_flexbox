@@ -1,0 +1,27 @@
+body{
+  background-color: red;
+  font-size: 20px;
+}
+
+.pageHeader {
+  display: flex;
+  justify-content: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shop{
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis: 33%;
+  justify-content: center;
+}
+.lastTwo{
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row;
+  
+}
